@@ -1,0 +1,43 @@
+<html>
+<head>
+  <title>Practical 9</title>
+  
+ 
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+
+</head> 
+<body>
+
+ 
+
+  <div>
+    <div >
+      <i class="fas fa-laptop-code icon"></i>
+      <h2>Web Development</h2>
+      <p>Learn how to build interactive and responsive websites using HTML5, CSS3, and JavaScript.</p>
+    </div>
+
+    <div>
+      <i class="fas fa-paint-brush icon"></i>
+      <h2>Creative Design</h2>
+      <p>Explore modern design principles, typography, and color theory to make your projects stand out.</p>
+    </div>
+
+    <div>
+      <i class="fas fa-mobile-alt icon"></i>
+      <h2>Mobile Friendly</h2>
+      <p>Ensure your website looks great on all devices with responsive layouts and flexible grids.</p>
+    </div>
+
+    <div >
+      <i class="fas fa-bolt icon"></i>
+      <h2>Animations</h2>
+      <p>Add life to your webpage with CSS animations, transitions, and transformations.</p>
+    </div>
+  </div>
+
+
+</body>
+</html>
